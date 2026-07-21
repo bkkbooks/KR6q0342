@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0342_000-X.yaml, hash: 'sha256:5eddf9147eeefae611533c8834a58741b375287410e787ccf83e78f1c5b62214'}
+  - {seq: 0, filename: KR6q0342_000-X.yaml, hash: 'sha256:dd538571d8fdd176c4fa307a1916315f3f6ddd6e8fe8ea462a44ec62c144dae1'}
   - {seq: 1, filename: KR6q0342_001-X.yaml, hash: 'sha256:68a256133c2563ef4e7eb900a349248a17681ed492b046b240f69b16a350d3a5'}
   - {seq: 2, filename: KR6q0342_002-X.yaml, hash: 'sha256:207f51383ddc8bd1803c6b064fad891a0c08463a4d62096714656c431199ab40'}
   - {seq: 3, filename: KR6q0342_003-X.yaml, hash: 'sha256:45c0ff07c1b34925c234d3c2f36a443a1c3a542eddc2668df41999cea70156ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0342_000-X.markers.yaml, hash: 'sha256:38b74f40dd3c65113320e9cf85f4e61cf38f5baad169021dccf2a5e07c87f307'}
+  - {seq: 0, role: markers, filename: assets/KR6q0342_000-X.markers.yaml, hash: 'sha256:433f901f3662ae9cfdfcf6b635fd50a04f9cea5fad34bbb1be6c774cb3b159e6'}
   - {seq: 1, role: markers, filename: assets/KR6q0342_001-X.markers.yaml, hash: 'sha256:07ddf7bb074daf9d5e6fdab5aef699cde813c6aab664874aaaa9d015d27a1e1a'}
   - {seq: 2, role: markers, filename: assets/KR6q0342_002-X.markers.yaml, hash: 'sha256:77478a033dec7a79994475162a340bd1679021ea7a57d959aa82ba4d7581fe44'}
   - {seq: 3, role: markers, filename: assets/KR6q0342_003-X.markers.yaml, hash: 'sha256:0592242b5c6c0a5238f6ddc157c5bbd6fc901088e4e071cf3c5e36f749509093'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0342_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1409-A 育王月江和尚語錄敘
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0342_X_000-mulu-2
     span:
-    - front
+    - body
     - 389
     - 389
   label: No. 1409-B 月江和尚語錄序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0342_X_000-mulu-3
     span:
-    - front
+    - body
     - 550
     - 550
   label: 月江和尚語錄目次
@@ -2979,4 +2979,4 @@ table_of_contents:
   label: 達磨
   type: mulu
   level: 1
-hash: sha256:364d42f967e08064aa50589ceef8cef730d9fa74f5f1bb917fcc8fde406d60a8
+hash: sha256:fd581459b67f11fa7c519c76d0e6008d0e7eb19f715469014c6f8acca09e54b9
